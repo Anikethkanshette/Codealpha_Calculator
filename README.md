@@ -24,5 +24,5 @@ This is a responsive scientific calculator built using HTML, CSS, and JavaScript
 
 ## Author
 
-- Name: [Your Name]
+- Name: Aniketh Malkarjun Kanshette 
 - Internship: Code Alpha Internship
